@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="welcome">
     <h1>{{ msg }}</h1>
     <img src="../assets/bitmoji-bijkler.png"/>
   </div>
@@ -32,4 +32,18 @@ li {
 a {
   color: #42b983;
 }
+
+.welcome {
+  width: 66%;
+  text-align: center;
+  border: 0.5em groove darkgrey;
+  background-color: cornsilk;
+}
+
+.welcome h1 {
+  color: darkorange;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
 </style>
