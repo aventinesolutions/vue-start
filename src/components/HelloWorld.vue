@@ -22,10 +22,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Aventine Solutions',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Aventine Solutions'
     }
   }
 }
